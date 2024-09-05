@@ -6,14 +6,14 @@
         <availability>on_desktop</availability>
         <billable>false</billable>
         <can_cancel>false</can_cancel>
-        <category display_value="All">299a740053605290a32fd2a0a0490efa</category>
-        <checked_out/>
+        <category display_value="臨時カテゴリ">53d6d98853285290a32fd2a0a0490ef7</category>
+        <checked_out>true</checked_out>
         <cost>0</cost>
         <custom_cart/>
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description><![CDATA[<p>test</p>]]></description>
+        <description><![CDATA[<p>テスト用</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -26,12 +26,12 @@
         <location/>
         <make_item_non_conversational>false</make_item_non_conversational>
         <mandatory_attachment>false</mandatory_attachment>
-        <meta>test record</meta>
+        <meta/>
         <mobile_hide_price>false</mobile_hide_price>
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>test record</name>
+        <name>臨時テスト用</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -55,7 +55,7 @@
 * To access the variables, use `producer.var1` where var1 is the name of the variable
 * To access the Record Producer use `cat_item`
 */]]></post_insert_script>
-        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=446e708053a05290a32fd2a0a0490e7e&amp;sysparm_preview=true", "summary");</preview>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=49369d8453285290a32fd2a0a0490e1c&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <published_ref/>
         <recurring_frequency/>
@@ -81,22 +81,22 @@
 * Avoid `current.setAbortAction()` and generate a separate record
 * Use `producer.var1` to access variables
 */]]></script>
-        <short_description>test record </short_description>
+        <short_description>臨時画面用</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
-        <state/>
+        <state>published</state>
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-09-05 01:46:12</sys_created_on>
-        <sys_id>446e708053a05290a32fd2a0a0490e7e</sys_id>
-        <sys_mod_count>22</sys_mod_count>
-        <sys_name>test record</sys_name>
+        <sys_created_on>2024-09-05 03:28:17</sys_created_on>
+        <sys_id>49369d8453285290a32fd2a0a0490e1c</sys_id>
+        <sys_mod_count>29</sys_mod_count>
+        <sys_name>臨時テスト用</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sc_cat_item_producer_446e708053a05290a32fd2a0a0490e7e</sys_update_name>
+        <sys_update_name>sc_cat_item_producer_49369d8453285290a32fd2a0a0490e1c</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2024-09-05 08:53:26</sys_updated_on>
+        <sys_updated_on>2024-09-05 06:54:20</sys_updated_on>
         <table_name>x_58872_needit_needit</table_name>
         <taxonomy_topic/>
         <template/>
@@ -104,29 +104,29 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>22</version>
+        <version>30</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
         <workflow/>
     </sc_cat_item_producer>
-    <sys_translated_text action="delete_multiple" query="documentkey=446e708053a05290a32fd2a0a0490e7e"/>
-    <fx_price action="delete_multiple" query="id=446e708053a05290a32fd2a0a0490e7e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=49369d8453285290a32fd2a0a0490e1c"/>
+    <fx_price action="delete_multiple" query="id=49369d8453285290a32fd2a0a0490e1c"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price</field>
-        <id>446e708053a05290a32fd2a0a0490e7e</id>
+        <id>49369d8453285290a32fd2a0a0490e1c</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-09-05 01:46:13</sys_created_on>
-        <sys_id>3a2f3c4453a05290a32fd2a0a0490e5f</sys_id>
+        <sys_created_on>2024-09-05 03:28:17</sys_created_on>
+        <sys_id>8e86d58453285290a32fd2a0a0490e9c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-05 01:46:13</sys_updated_on>
+        <sys_updated_on>2024-09-05 03:28:17</sys_updated_on>
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>

@@ -4,7 +4,7 @@
         <active>true</active>
         <availability>on_desktop</availability>
         <billable>false</billable>
-        <category/>
+        <category display_value="test2">4894814c53e05290a32fd2a0a0490ec3</category>
         <checked_out/>
         <cost>0</cost>
         <custom_cart/>
@@ -15,7 +15,7 @@
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
-        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <fulfillment_automation_level>manual</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
@@ -29,7 +29,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name/>
+        <name>test2</name>
         <no_attachment_v2>false</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -47,14 +47,14 @@
         <ordered_item_link/>
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <picture/>
-        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=b84ba7df53dc1a50a32fd2a0a0490e21&amp;sysparm_preview=true", "summary");</preview>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=a54585cc53e05290a32fd2a0a0490e32&amp;sysparm_preview=true", "summary");</preview>
         <price>0</price>
         <published_ref/>
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <request_method/>
         <roles/>
-        <sc_catalogs/>
+        <sc_catalogs>83dab84053605290a32fd2a0a0490e76</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template/>
@@ -64,44 +64,44 @@
         <state/>
         <sys_class_name>sc_cat_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-09-03 06:22:43</sys_created_on>
-        <sys_id>b84ba7df53dc1a50a32fd2a0a0490e21</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name/>
+        <sys_created_on>2024-09-05 02:13:11</sys_created_on>
+        <sys_id>a54585cc53e05290a32fd2a0a0490e32</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>test2</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sc_cat_item_b84ba7df53dc1a50a32fd2a0a0490e21</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-03 06:22:44</sys_updated_on>
+        <sys_update_name>sc_cat_item_a54585cc53e05290a32fd2a0a0490e32</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-09-05 02:16:50</sys_updated_on>
         <taxonomy_topic/>
         <template/>
         <template_manager_roles/>
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>1</version>
+        <version>8</version>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
         <visible_standalone>true</visible_standalone>
         <workflow/>
     </sc_cat_item>
-    <sys_translated_text action="delete_multiple" query="documentkey=b84ba7df53dc1a50a32fd2a0a0490e21"/>
-    <fx_price action="delete_multiple" query="id=b84ba7df53dc1a50a32fd2a0a0490e21"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=a54585cc53e05290a32fd2a0a0490e32"/>
+    <fx_price action="delete_multiple" query="id=a54585cc53e05290a32fd2a0a0490e32"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price</field>
-        <id>b84ba7df53dc1a50a32fd2a0a0490e21</id>
+        <id>a54585cc53e05290a32fd2a0a0490e32</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-09-03 06:22:43</sys_created_on>
-        <sys_id>314b2f5b53dc1a50a32fd2a0a0490eb6</sys_id>
+        <sys_created_on>2024-09-05 02:13:11</sys_created_on>
+        <sys_id>8e55094053245290a32fd2a0a0490ec5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-03 06:22:43</sys_updated_on>
+        <sys_updated_on>2024-09-05 02:13:11</sys_updated_on>
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>
@@ -109,16 +109,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>recurring_price</field>
-        <id>b84ba7df53dc1a50a32fd2a0a0490e21</id>
+        <id>a54585cc53e05290a32fd2a0a0490e32</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-09-03 06:22:44</sys_created_on>
-        <sys_id>b54b2f5b53dc1a50a32fd2a0a0490eb7</sys_id>
+        <sys_created_on>2024-09-05 02:13:12</sys_created_on>
+        <sys_id>ca55094053245290a32fd2a0a0490ec6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-09-03 06:22:44</sys_updated_on>
+        <sys_updated_on>2024-09-05 02:13:12</sys_updated_on>
         <table>sc_cat_item</table>
         <type>calculated</type>
     </fx_price>

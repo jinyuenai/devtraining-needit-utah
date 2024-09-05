@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="臨時テスト用">49369d8453285290a32fd2a0a0490e1c</catalog_item>
+        <catalog_variable>IO:899fad4853ac5290a32fd2a0a0490e87</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-05 05:39:45</sys_created_on>
+        <sys_id>b984750853ec5290a32fd2a0a0490ea2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>recommend_test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_b984750853ec5290a32fd2a0a0490ea2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-05 05:39:45</sys_updated_on>
+        <table/>
+        <ui_policy display_value="推薦展示用">6ba3790453ec5290a32fd2a0a0490e17</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <variable>recommend_test</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=b984750853ec5290a32fd2a0a0490ea2"/>
+</record_update>
