@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <glyph>home</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>3</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>baidu</short_description>
+        <size>md</size>
+        <sp_column display_value="3">187bcf9753d41a50a32fd2a0a0490e2f</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 05:13:26</sys_created_on>
+        <sys_id>2a6b9b9f53181a50a32fd2a0a0490e76</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sp_instance_link_2a6b9b9f53181a50a32fd2a0a0490e76</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 05:24:16</sys_updated_on>
+        <title/>
+        <type>url</type>
+        <url>https://www.baidu.com/</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=2a6b9b9f53181a50a32fd2a0a0490e76"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>47be7b9adb19c2d02f082a5913961946</instance_id>
+        <instance_name>dev254065</instance_name>
+        <name>sp_instance_link_2a6b9b9f53181a50a32fd2a0a0490e76</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;success&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;home&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;3&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;baidu&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;187bcf9753d41a50a32fd2a0a0490e2f&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-09-03 05:13:26&lt;/sys_created_on&gt;&lt;sys_id&gt;2a6b9b9f53181a50a32fd2a0a0490e76&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_2a6b9b9f53181a50a32fd2a0a0490e76&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-09-03 05:24:16&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;type&gt;url&lt;/type&gt;&lt;url&gt;https://www.baidu.com/&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2a6b9b9f53181a50a32fd2a0a0490e76"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1687456934</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>ccb79e075398d250a32fd2a0a0490e55</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 05:24:16</sys_created_on>
+        <sys_id>a9ed9b9b531c1a50a32fd2a0a0490e30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191b6573f000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 05:24:16</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>21ed9b9bea1c1a50810a9a2c9c57a630</update_guid>
+        <update_guid_history>21ed9b9bea1c1a50810a9a2c9c57a630:-1687456934,94ed1b9bab1c1a509a9298bb482b848a:1951180667,a71c13dfd5d81a50d57b2acc7e023e98:1023776509,ea6b9b9f4e181a50391a3e38d42dd778:1164046788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">87ed5b9b531c1a50a32fd2a0a0490e9f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-03 05:24:22</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>8a1c7fda65af497292a777b06673e619</sys_id>
+        <sys_metadata>2a6b9b9f53181a50a32fd2a0a0490e76</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sp_instance_link_2a6b9b9f53181a50a32fd2a0a0490e76</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_2a6b9b9f53181a50a32fd2a0a0490e76">a9ed9b9b531c1a50a32fd2a0a0490e30</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-03 05:24:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
