@@ -44,5 +44,6 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="推薦人" max_length="40" name="u_string_5" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="BV番号" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="資産" max_length="80" name="u_assets" type="string"/>
     </element>
 </database>
